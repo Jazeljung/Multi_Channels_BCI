@@ -1,0 +1,9 @@
+//This folder contrains FPGA projects which is develop on Xilinx FPGA
+
+device: Uisrc Xilinx Kintex-7 FPGA dev board
+language: Verilog HDL
+part: 
+  (1)ads1299_ctrl: top module of ads1299_driver;
+  (2)ads1299_driver: standard ads1299 spi driver;
+  
+ 
